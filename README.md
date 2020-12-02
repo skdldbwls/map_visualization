@@ -5,6 +5,11 @@
 
 go here  https://skdldbwls.github.io/map_visualization/index2
 
+<div>
+  <img width="600" src="https://user-images.githubusercontent.com/55826432/100895878-5effe480-3501-11eb-8a1b-20ab6f218b40.png">
+</div>
+
+
 #### [Highest and Lowest Crime incidence and arrest rate by region ]
 
 go here  https://skdldbwls.github.io/map_visualization/index3
